@@ -1,0 +1,6 @@
+*.log
+
+!text.log
+
+node/*
+web-app/*
