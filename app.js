@@ -17,3 +17,4 @@ button.addEventListener("click", function (e) {
 });
 
 const canDrink = false;
+const age = 30;
